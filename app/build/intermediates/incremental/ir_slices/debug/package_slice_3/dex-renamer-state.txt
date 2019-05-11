@@ -1,0 +1,4 @@
+#Wed May 08 23:15:31 BST 2019
+base.0=C\:\\Users\\vulte\\VWatchFaceLite\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

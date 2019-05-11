@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\683e651dabf8487fb3b8fabda5a8a465\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\25ceafece9ff6507c0480b4991d967c3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:percent:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\35d7b5c771c650af492e2f6ce0995ad4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\66b2989ea4a4295e865cee358e7a722d\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\175a22ca71088ffd21b3668b58c981dc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\7058f1fd3018fe54c25f0f5f81d6fd0a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\af4faa623c0e4595e73a8d1c768ed804\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\63bd8831489b58550bd4a5395facf30a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\1f202ff9fa2ca90ef7a26c13ce7cfc57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\0cea29df859628f89360835d56a307b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\3ee5df5ec73b35672841139c84dce994\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\dff52f46277eba791b3b604faa5d8867\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\8fa4e7be2841ca758cb4826cb05e49f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\6f8a0bca345dff162f3a8e7488798ffd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\e1a218c8cce4df614fa43fecb5d7b3ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\dc50c6eda56c209116d16b39db9c02d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\1ba6aa428e351dae48c8287b89ae6bc0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\013e45aa5b54f108d485d19ac50fc368\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\3d9f883290f508cdf1b5f1b188bbb4b3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\1f3766e49b52256596eea1d1d12e6926\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\bf90595663e0777de75311cb6376ec42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\bf1880aa3e107415f227255dc5c7183d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\64e6b7aacd8b1e11c1cc68895b2f45b7\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\b294c23d64dfa2b81c84071dab28f38d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\08713443657e2520319d6f18b78932ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\e0f0f5173d1b1e6fe16ef142f936bc0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\fb89dc2ab8b365ed22ca027b55ccd2e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\183328fc460db2272d8f3ef4e6b762bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\d4cd07e2a9406adcc9bdb8dd3946007e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\261180b2b14657037e45187393b02570\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\4598558db884cc672e6921f1a8f1c62f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\b9142dc319e66cb40389734131950da0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\fd3599d8208097dde63a629ad1a40d8a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#com.google.android.wearable.permission.RECEIVE_COMPLICATION_DATA
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:9:5-104
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:9:22-101
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:11:5-64
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:11:19-61
+application
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:13:5-47:19
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\683e651dabf8487fb3b8fabda5a8a465\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\683e651dabf8487fb3b8fabda5a8a465\AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\25ceafece9ff6507c0480b4991d967c3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\25ceafece9ff6507c0480b4991d967c3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\66b2989ea4a4295e865cee358e7a722d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\66b2989ea4a4295e865cee358e7a722d\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\175a22ca71088ffd21b3668b58c981dc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\175a22ca71088ffd21b3668b58c981dc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\7058f1fd3018fe54c25f0f5f81d6fd0a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\7058f1fd3018fe54c25f0f5f81d6fd0a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\bf1880aa3e107415f227255dc5c7183d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\bf1880aa3e107415f227255dc5c7183d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\64e6b7aacd8b1e11c1cc68895b2f45b7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\64e6b7aacd8b1e11c1cc68895b2f45b7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\bf1880aa3e107415f227255dc5c7183d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:18:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:19:9-21:36
+	android:value
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:21:13-33
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:20:13-66
+service#com.vulterey.vwatchfacelite.MyWatchFace
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:23:9-42:19
+	android:label
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:25:13-51
+	android:permission
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:26:13-67
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:24:13-40
+meta-data#android.service.wallpaper
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:27:13-29:54
+	android:resource
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:29:17-51
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:28:17-57
+meta-data#com.google.android.wearable.watchface.preview
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:30:13-32:63
+	android:resource
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:32:17-60
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:31:17-77
+meta-data#com.google.android.wearable.watchface.preview_circular
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:33:13-35:63
+	android:resource
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:35:17-60
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:34:17-86
+intent-filter#action:name:android.service.wallpaper.WallpaperService+category:name:com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.service.wallpaper.WallpaperService
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:38:17-85
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:38:25-82
+category#com.google.android.wearable.watchface.category.WATCH_FACE
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:40:17-102
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:40:27-99
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:44:9-46:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\7058f1fd3018fe54c25f0f5f81d6fd0a\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\7058f1fd3018fe54c25f0f5f81d6fd0a\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:46:13-66
+	android:name
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml:45:13-58
+uses-sdk
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\683e651dabf8487fb3b8fabda5a8a465\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.4.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\683e651dabf8487fb3b8fabda5a8a465\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\25ceafece9ff6507c0480b4991d967c3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\25ceafece9ff6507c0480b4991d967c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\35d7b5c771c650af492e2f6ce0995ad4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\35d7b5c771c650af492e2f6ce0995ad4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\66b2989ea4a4295e865cee358e7a722d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\66b2989ea4a4295e865cee358e7a722d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\175a22ca71088ffd21b3668b58c981dc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\175a22ca71088ffd21b3668b58c981dc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\7058f1fd3018fe54c25f0f5f81d6fd0a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\7058f1fd3018fe54c25f0f5f81d6fd0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\af4faa623c0e4595e73a8d1c768ed804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\af4faa623c0e4595e73a8d1c768ed804\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\63bd8831489b58550bd4a5395facf30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\63bd8831489b58550bd4a5395facf30a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\1f202ff9fa2ca90ef7a26c13ce7cfc57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\1f202ff9fa2ca90ef7a26c13ce7cfc57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\0cea29df859628f89360835d56a307b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\0cea29df859628f89360835d56a307b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\3ee5df5ec73b35672841139c84dce994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\3ee5df5ec73b35672841139c84dce994\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\dff52f46277eba791b3b604faa5d8867\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\dff52f46277eba791b3b604faa5d8867\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\8fa4e7be2841ca758cb4826cb05e49f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\8fa4e7be2841ca758cb4826cb05e49f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\6f8a0bca345dff162f3a8e7488798ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\6f8a0bca345dff162f3a8e7488798ffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\e1a218c8cce4df614fa43fecb5d7b3ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\e1a218c8cce4df614fa43fecb5d7b3ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\dc50c6eda56c209116d16b39db9c02d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\dc50c6eda56c209116d16b39db9c02d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\1ba6aa428e351dae48c8287b89ae6bc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\1ba6aa428e351dae48c8287b89ae6bc0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\013e45aa5b54f108d485d19ac50fc368\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\013e45aa5b54f108d485d19ac50fc368\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\3d9f883290f508cdf1b5f1b188bbb4b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\3d9f883290f508cdf1b5f1b188bbb4b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\1f3766e49b52256596eea1d1d12e6926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\1f3766e49b52256596eea1d1d12e6926\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\bf90595663e0777de75311cb6376ec42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\bf90595663e0777de75311cb6376ec42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\bf1880aa3e107415f227255dc5c7183d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\bf1880aa3e107415f227255dc5c7183d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\64e6b7aacd8b1e11c1cc68895b2f45b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\64e6b7aacd8b1e11c1cc68895b2f45b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\b294c23d64dfa2b81c84071dab28f38d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\b294c23d64dfa2b81c84071dab28f38d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\08713443657e2520319d6f18b78932ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\08713443657e2520319d6f18b78932ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\e0f0f5173d1b1e6fe16ef142f936bc0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\e0f0f5173d1b1e6fe16ef142f936bc0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\fb89dc2ab8b365ed22ca027b55ccd2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\fb89dc2ab8b365ed22ca027b55ccd2e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\183328fc460db2272d8f3ef4e6b762bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\183328fc460db2272d8f3ef4e6b762bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\d4cd07e2a9406adcc9bdb8dd3946007e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\d4cd07e2a9406adcc9bdb8dd3946007e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\261180b2b14657037e45187393b02570\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\261180b2b14657037e45187393b02570\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\4598558db884cc672e6921f1a8f1c62f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\4598558db884cc672e6921f1a8f1c62f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\b9142dc319e66cb40389734131950da0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\b9142dc319e66cb40389734131950da0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\fd3599d8208097dde63a629ad1a40d8a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\fd3599d8208097dde63a629ad1a40d8a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vulte\VWatchFaceLite\app\src\main\AndroidManifest.xml
+uses-library#com.google.android.wearable
+ADDED from [com.google.android.support:wearable:2.4.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\683e651dabf8487fb3b8fabda5a8a465\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [com.google.android.support:wearable:2.4.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\683e651dabf8487fb3b8fabda5a8a465\AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.support:wearable:2.4.0] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\683e651dabf8487fb3b8fabda5a8a465\AndroidManifest.xml:11:13-55
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\66b2989ea4a4295e865cee358e7a722d\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\66b2989ea4a4295e865cee358e7a722d\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\66b2989ea4a4295e865cee358e7a722d\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\vulte\.gradle\caches\transforms-2\files-2.1\66b2989ea4a4295e865cee358e7a722d\AndroidManifest.xml:24:13-79
